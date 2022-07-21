@@ -1,0 +1,24 @@
+{
+  "STUDENTS": [
+    [
+      {
+        "27892": "Name: John, grade: 33, id: 27892"
+      },
+      {
+        "44897": "Name: John, grade: 21, id: 44897"
+      },
+      {
+        "57436": "Name: John, grade: 23, id: 57436"
+      },
+      {
+        "67491": "Name: John, grade: 38, id: 67491"
+      },
+      {
+        "96062": "Name: John, grade: 37, id: 96062"
+      },
+      {
+        "100001": "Name: Ali, grade: 20, id: 100001"
+      }
+    ]
+  ]
+}
